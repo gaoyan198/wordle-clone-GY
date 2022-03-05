@@ -1,4 +1,5 @@
 Wordle Clone Build Using Vanilla JS (& Html + Css)
+====================================================
 
 1) You will need to install npm packages:
 > npm i express axios nodemon dotenv cors
