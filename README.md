@@ -6,7 +6,7 @@ Wordle Clone Build Using Vanilla JS (& Html + Css)
 2) Go to https://rapidapi.com/ and create an account.
 
 3) Once you get an account, create a .env file and set:
-> RAPID_API_KEY=<your-api-key>
+> RAPID_API_KEY=your-api-key
 
 4) Run index.js backend 
 > node index.js
